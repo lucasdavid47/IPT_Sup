@@ -59,3 +59,8 @@ print(product)
 """Concatène les deux listes"""
 L2=[1,2,3,4,5,6,7,8]
 print(L + L2)
+
+Liste = []
+for k in range (0, len(L)):
+    L.append(L[k] + L2[k])
+print(Liste)
