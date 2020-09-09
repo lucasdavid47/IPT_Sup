@@ -56,6 +56,6 @@ for p in PrimeNumbers:
     product *= p
 print(product)
 
-
+"""Concatène les deux listes"""
 L2=[1,2,3,4,5,6,7,8]
 print(L + L2)
